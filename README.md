@@ -7,6 +7,7 @@
 2. Open "Image Feather.exe" file (I'd recommend to you to create a shortcut into your desktop)
 3. Select the quality reduction from the slider.
 4. Select the folder when you hold the images to compress.
+5. Start.
 - NOTE: the new images will be saved (replaced) on the same folder.
 
 # Credits
