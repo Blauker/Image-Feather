@@ -8,8 +8,8 @@
 3. Select the quality reduction from the slider.
 4. Select the folder when you hold the images to compress.
 5. Start.
-![alt text](https://github.com/Blauker/Image-Feather/blob/main/ImageFeatherView.PNG?raw=true)
 - NOTE: the new images will be saved (replaced) on the same folder.
+![alt text](https://github.com/Blauker/Image-Feather/blob/main/ImageFeatherView.PNG?raw=true)
 
 # Credits
 - Developed by Blauker (me).
