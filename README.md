@@ -1,6 +1,7 @@
 # Image-Feather
 - This program will change the extension of all your images to '.jpg' and will reduce que quality to compress the file size.
-- Really usefull when you need to send tons of heavy images or your net is slow.
+- You can choose between 3 type of quality (30-45-60).
+- Really usefull when you need to send/use tons of heavy images.
 
 # How to install
 1. Download the .zip file and extract it on a folder wherever you want on your PC.
@@ -17,7 +18,6 @@
 # Credits
 - Developed by Blauker (me).
 - App design is a modification of Tom Schimansky's CustomTkinter template.
-
 - Special thanks to my Girlfriend who was in call with me all the night & StackOverflow D:
 
 
